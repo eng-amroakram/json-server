@@ -19,11 +19,6 @@
             "id": 4,
             "title": "PHP Laravel 4",
             "author": "Amro Akram 1"
-        },
-        {
-                        "id": 5,
-            "title": "PHP Laravel 5",
-            "author": "Amro Akram 5"
         }
     ],
     "comments": [
